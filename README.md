@@ -5,7 +5,13 @@
 </p>
 
 <p align="center">
-  <b>Um app de produtividade focado em simplicidade e execução.</b><br>
+  <b>Um app de produtividade focado em simplicida### 💡 Idealizador & Web Developer
+
+**Derik Martins**  
+Criador original do conceito e desenvolvedor da versão Web.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derik-s-martins/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/derik-martins)xecução.</b><br>
   Inspirado no Sunsama, construído para quem quer fazer mais com menos.
 </p>
 
