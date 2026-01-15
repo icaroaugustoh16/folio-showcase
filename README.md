@@ -1,7 +1,7 @@
 # 📔 Folio - Productivity & Focus App
 
 <p align="center">
-  <img src="screenshots/logo.png" alt="Folio Logo" width="120"/>
+  <img src="screenshots/logo-folio-terracota.svg" alt="Folio Logo" width="120"/>
 </p>
 
 <p align="center">
