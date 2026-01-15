@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/Expo-SDK_54-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo"/>
   <img src="https://img.shields.io/badge/TypeScript-5.8-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/PostgreSQL-16-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/License-MIT-000000?style=flat-square&logo=opensourceinitiative&logoColor=white" alt="MIT License"/>
 </p>
 
 ---
@@ -194,6 +195,12 @@ Acompanhe seu progresso sem complexidade.
 
 - [✨ Funcionalidades Detalhadas](docs/features.md)
 - [🛠️ Stack Tecnológica](docs/tech-stack.md)
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
