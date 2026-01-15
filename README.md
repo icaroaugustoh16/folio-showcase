@@ -10,6 +10,11 @@
 </p>
 
 <p align="center">
+  🌐 <b>Web</b> por <a href="https://github.com/derik-martins">Derik Martins</a> · 
+  📱 <b>Mobile</b> por <a href="https://github.com/icaroaugustoh16">Ícaro Augusto</a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/React_Native-0.81-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React Native"/>
   <img src="https://img.shields.io/badge/Expo-SDK_54-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo"/>
   <img src="https://img.shields.io/badge/TypeScript-5.8-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -168,6 +173,13 @@ Acompanhe seu progresso sem complexidade.
 | **iOS** | ✅ Suportado | iOS 13+ |
 | **Web** | ✅ Suportado | Navegadores modernos |
 
+### 🏪 Distribuição (Em breve)
+
+| Loja | Status |
+|------|--------|
+| **Google Play Store** | 🔜 Planejado |
+| **Apple App Store** | 🔜 Planejado |
+
 ---
 
 ## 🚧 Status & Roadmap
@@ -204,9 +216,19 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## �👨‍💻 Desenvolvido por
+## � Equipe
+
+### � Idealizador & Web Developer
+
+**Derik Martins**  
+Criador original do conceito e desenvolvedor da versão Web.
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/derik-martins)
+
+### 📱 Mobile Developer
 
 **Ícaro Augusto**  
+Responsável pelo desenvolvimento mobile (iOS & Android) com React Native/Expo.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%ADcaro-augusto-00b567227/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/icaroaugustoh16)
